@@ -5,21 +5,21 @@ This project is a complete Data Engineering pipeline that loads data from a CSV 
 
 It simulates how real data pipelines work in production environments.
 
-🗂 Project Structure
-data-engineering-project/
-│
-├── data/
-│   ├── posts.csv
-│   └── posts.db
-│
-├── scripts/
-│   ├── database.py
-│   ├── load.py
-│   ├── query.py
-│   └── main.py
-│
-├── venv/
-└── README.md
+                🗂 Project Structure
+        data-engineering-project/
+        │
+        ├── data/
+          │   ├── posts.csv
+          │   └── posts.db
+        │
+        ├── scripts/
+        │   ├── database.py
+        │   ├── load.py
+        │   ├── query.py
+        │   └── main.py
+        │
+        ├── venv/
+        └── README.md
 
 ⚙️ Technologies Used
 
